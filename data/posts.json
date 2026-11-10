@@ -27,5 +27,43 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261110-fic1nd",
+  "title": "Ingestapt",
+  "body": "Het boarden is begonnen, eerst door een koude gang. Komend bij een geparfumeerd vliegtuig, zoals Oman daar bekend om staat. Geen stewardessen alleen stewards, een zo breed dat ie alleen zijwaarts door het vliegtuig heen kan.",
+  "time": "2026-11-10T19:05:00.000Z",
+  "tz": "Europe/Amsterdam",
+  "loc": {
+   "lat": 52.31091,
+   "lon": 4.75694,
+   "r": 500,
+   "kind": "grid",
+   "label": "Noord-Holland"
+  },
+  "exact": {
+   "iv": "Calt2ctvnC73hSHP",
+   "ct": "/sxNJzNTtIWJfLfjtGMzzKqBr5r/1ekqZqzf2bguYnBZxeuiOflSBZVlMCzCEPOpUaWSaRg/6ORaDA=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261110-fic1nd/mwb29hfo-1.jpg",
+    "thumb": "photos/20261110-fic1nd/mwb29hfo-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261110-fic1nd/mwb29hfo-2.jpg",
+    "thumb": "photos/20261110-fic1nd/mwb29hfo-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
