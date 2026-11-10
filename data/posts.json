@@ -1,1 +1,31 @@
-[]
+[
+ {
+  "id": "20261110-7nfhcg",
+  "title": "Schiphol",
+  "body": "Aankomst op Schiphol, 2 uur naar de vlakke roltrappen gekeken. Het ritmische ervan heeft me in een trance gebracht.",
+  "time": "2026-11-10T17:30:00.000Z",
+  "tz": "Europe/Amsterdam",
+  "loc": {
+   "lat": 52.31091,
+   "lon": 4.75694,
+   "r": 500,
+   "kind": "grid",
+   "label": "Noord-Holland"
+  },
+  "exact": {
+   "iv": "rEn8UeonHEmRF3X7",
+   "ct": "/PwBViyRqoi49lQD8pM9BycVZ2PREcy2b4I5U2xOqSu29GlFWh6uQkUrnCuT0jbouvVWD52NQ64z"
+  },
+  "photos": [
+   {
+    "src": "photos/20261110-7nfhcg/mwayuq92-1.jpg",
+    "thumb": "photos/20261110-7nfhcg/mwayuq92-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
+ }
+]
