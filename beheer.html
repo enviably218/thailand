@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Schrijven · reisblog</title>
+  <meta name="theme-color" content="#1d2125">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/admin.css">
+</head>
+<body class="admin">
+  <header class="abar">
+    <div class="wrap abar-inner">
+      <div class="abar-title"><strong>Schrijven</strong><span id="abarTrip"></span></div>
+      <div class="abar-right">
+        <span class="net" id="net"></span>
+        <a class="btn btn-sm btn-ghost-dark" href="./" target="_blank" rel="noopener">Bekijk blog</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap amain">
+    <div id="toast" class="toast" hidden></div>
+
+    <!-- Inloggen -->
+    <section id="scrLogin" class="card screen" hidden>
+      <h2>Inloggen met GitHub</h2>
+      <p>Plak hier je GitHub-sleutel (fine-grained personal access token) met <strong>Contents: Read and write</strong> op de repository <code id="repoName"></code>. De sleutel blijft alleen op dit apparaat.</p>
+      <form id="loginForm" class="stack">
+        <label>GitHub-sleutel<input id="token" type="password" autocomplete="off" placeholder="github_pat_…" required></label>
+        <details><summary>Andere repository</summary>
+          <div class="row2"><label>Eigenaar<input id="owner"></label><label>Repository<input id="repo"></label></div>
+        </details>
+        <p class="err" id="loginErr" hidden></p>
+        <button class="btn btn-primary" type="submit">Inloggen</button>
+      </form>
+    </section>
+
+    <!-- Wachtwoord instellen -->
+    <section id="scrSetup" class="card screen" hidden>
+      <h2>Wachtwoord voor exacte locaties instellen</h2>
+      <p>Met dit wachtwoord worden exacte locaties versleuteld. Lezers die het wachtwoord hebben, kunnen de exacte plekken zien. Kies een zin van 4 of meer losse woorden, bijvoorbeeld <em>mango-tuktuk-regen-veertien</em>. Stuur het wachtwoord niet mee in de blog zelf.</p>
+      <form id="setupForm" class="stack">
+        <label>Wachtwoord<input id="pw1" type="password" autocomplete="new-password" minlength="10" required></label>
+        <label>Herhaal wachtwoord<input id="pw2" type="password" autocomplete="new-password" minlength="10" required></label>
+        <p class="err" id="setupErr" hidden></p>
+        <button class="btn btn-primary" type="submit">Wachtwoord instellen</button>
+      </form>
+    </section>
+
+    <!-- Ontgrendelen -->
+    <section id="scrUnlock" class="card screen" hidden>
+      <h2>Wachtwoord invoeren</h2>
+      <p>Nodig om exacte locaties te versleutelen. Dit hoef je per apparaat maar één keer te doen.</p>
+      <form id="unlockForm2" class="stack">
+        <label>Wachtwoord<input id="pwU" type="password" autocomplete="current-password" required></label>
+        <p class="err" id="unlockErr" hidden></p>
+        <button class="btn btn-primary" type="submit">Doorgaan</button>
+      </form>
+    </section>
+
+    <!-- Hoofdscherm -->
+    <section id="scrMain" hidden>
+      <div class="queue card" id="queueBox" hidden></div>
+      <nav class="tabs" id="tabs">
+        <button data-tab="nieuw" class="on">Nieuw bericht</button>
+        <button data-tab="berichten">Berichten</button>
+        <button data-tab="tijdlijn">Tijdlijn</button>
+        <button data-tab="vluchten">Vluchten</button>
+        <button data-tab="intro">Intro</button>
+        <button data-tab="instellingen">Instellingen</button>
+      </nav>
+
+      <div class="tab" id="tab-nieuw"></div>
+      <div class="tab" id="tab-berichten" hidden></div>
+      <div class="tab" id="tab-tijdlijn" hidden></div>
+      <div class="tab" id="tab-vluchten" hidden></div>
+      <div class="tab" id="tab-intro" hidden></div>
+      <div class="tab" id="tab-instellingen" hidden></div>
+    </section>
+  </main>
+
+  <script src="assets/vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="assets/admin.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+  </script>
+</body>
+</html>

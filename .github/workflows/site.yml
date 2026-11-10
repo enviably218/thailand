@@ -1,0 +1,63 @@
+name: Site bouwen en publiceren
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # elke 5 minuten: vluchten volgen + dagelijkse samenvatting om 21:00 NL
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  site:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Vluchten volgen
+        id: track
+        if: github.event_name != 'push'
+        run: node scripts/track-flights.mjs
+
+      - name: Vluchtroute opslaan
+        if: steps.track.outputs.changed == 'true'
+        run: |
+          git config user.name "reisblog-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tracks
+          git commit -m "Vluchtroute bijgewerkt"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+
+      - name: Site bouwen
+        id: build
+        env:
+          EVENT: ${{ github.event_name }}
+        run: node scripts/build.mjs
+
+      - uses: actions/configure-pages@v5
+        if: steps.build.outputs.deploy == 'true'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.build.outputs.deploy == 'true'
+        with:
+          path: _site
+
+      - id: deploy
+        if: steps.build.outputs.deploy == 'true'
+        uses: actions/deploy-pages@v4

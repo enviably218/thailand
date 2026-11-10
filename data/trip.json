@@ -1,0 +1,128 @@
+{
+  "title": "Thailand 2026",
+  "subtitle": "10 – 26 november · Bangkok · Chiang Mai · Phuket",
+  "intro": "Van 10 tot en met 26 november reis ik door Thailand. Eerst een paar dagen de drukte van **Bangkok**, dan met de trein naar het noorden voor de tempels, markten en bergen rond **Chiang Mai**, en tot slot naar de kust van **Phuket**.\n\nOnderweg schrijf ik hier wat ik zie, eet en meemaak, vaak meerdere keren per dag. Op de kaart zie je de planning langzaam veranderen in de route die ik echt heb afgelegd.\n\nWil je niets missen? Laat hieronder je e-mailadres achter, dan krijg je elke avond een korte samenvatting van de dag.",
+  "dayZero": "2026-11-10",
+  "homeTz": "Europe/Amsterdam",
+  "events": [
+    {
+      "id": "wy172",
+      "type": "flight",
+      "title": "Amsterdam → Muscat",
+      "flightNo": "WY 172",
+      "callsign": "OMA172",
+      "start": { "utc": "2026-11-10T19:00:00Z", "tz": "Europe/Amsterdam" },
+      "end": { "utc": "2026-11-11T01:50:00Z", "tz": "Asia/Muscat" },
+      "from": { "name": "Amsterdam Schiphol", "code": "AMS", "lat": 52.3086, "lon": 4.7639 },
+      "to": { "name": "Muscat International", "code": "MCT", "lat": 23.5933, "lon": 58.2844 }
+    },
+    {
+      "id": "mct-overstap",
+      "type": "layover",
+      "title": "Overstap in Muscat",
+      "start": { "utc": "2026-11-11T01:50:00Z", "tz": "Asia/Muscat" },
+      "end": { "utc": "2026-11-11T04:30:00Z", "tz": "Asia/Muscat" },
+      "place": { "name": "Muscat International", "code": "MCT", "lat": 23.5933, "lon": 58.2844 }
+    },
+    {
+      "id": "wy815",
+      "type": "flight",
+      "title": "Muscat → Bangkok",
+      "flightNo": "WY 815",
+      "callsign": "OMA815",
+      "start": { "utc": "2026-11-11T04:30:00Z", "tz": "Asia/Muscat" },
+      "end": { "utc": "2026-11-11T10:15:00Z", "tz": "Asia/Bangkok" },
+      "from": { "name": "Muscat International", "code": "MCT", "lat": 23.5933, "lon": 58.2844 },
+      "to": { "name": "Bangkok Suvarnabhumi", "code": "BKK", "lat": 13.69, "lon": 100.7501 }
+    },
+    {
+      "id": "verblijf-bangkok",
+      "type": "stay",
+      "title": "Bangkok",
+      "start": { "utc": "2026-11-11T10:15:00Z", "tz": "Asia/Bangkok" },
+      "end": { "utc": "2026-11-15T00:30:00Z", "tz": "Asia/Bangkok" },
+      "area": { "label": "Din Daeng, Bangkok", "lat": 13.782, "lon": 100.56, "r": 1800 },
+      "exact": null
+    },
+    {
+      "id": "trein-cnx",
+      "type": "train",
+      "title": "Bangkok → Chiang Mai",
+      "note": "Dagtrein over de noordelijke spoorlijn",
+      "start": { "utc": "2026-11-15T00:30:00Z", "tz": "Asia/Bangkok" },
+      "end": { "utc": "2026-11-15T10:30:00Z", "tz": "Asia/Bangkok" },
+      "from": { "name": "Bangkok (Krung Thep Aphiwat)", "lat": 13.8045, "lon": 100.5405 },
+      "to": { "name": "Station Chiang Mai", "lat": 18.7845, "lon": 99.0175 },
+      "route": "data/train-route.json"
+    },
+    {
+      "id": "verblijf-cnx-1",
+      "type": "stay",
+      "title": "Chiang Mai",
+      "note": "Uitchecktijd 18 nov aangenomen als 12:00",
+      "start": { "utc": "2026-11-15T10:30:00Z", "tz": "Asia/Bangkok" },
+      "end": { "utc": "2026-11-18T05:00:00Z", "tz": "Asia/Bangkok" },
+      "area": { "label": "Chang Moi / Night Bazaar, Chiang Mai", "lat": 18.7905, "lon": 98.9985, "r": 1200 },
+      "exact": null
+    },
+    {
+      "id": "verblijf-cnx-2",
+      "type": "stay",
+      "title": "Chiang Mai",
+      "start": { "utc": "2026-11-18T05:00:00Z", "tz": "Asia/Bangkok" },
+      "end": { "utc": "2026-11-22T09:15:00Z", "tz": "Asia/Bangkok" },
+      "area": { "label": "Chang Phueak, Chiang Mai", "lat": 18.806, "lon": 98.98, "r": 1300 },
+      "exact": null
+    },
+    {
+      "id": "cnx-hkt",
+      "type": "flight",
+      "title": "Chiang Mai → Phuket",
+      "flightNo": "",
+      "callsign": "",
+      "start": { "utc": "2026-11-22T09:15:00Z", "tz": "Asia/Bangkok" },
+      "end": { "utc": "2026-11-22T11:20:00Z", "tz": "Asia/Bangkok" },
+      "from": { "name": "Chiang Mai International", "code": "CNX", "lat": 18.7668, "lon": 98.9626 },
+      "to": { "name": "Phuket International", "code": "HKT", "lat": 8.1132, "lon": 98.3169 }
+    },
+    {
+      "id": "verblijf-phuket",
+      "type": "stay",
+      "title": "Phuket",
+      "start": { "utc": "2026-11-22T11:20:00Z", "tz": "Asia/Bangkok" },
+      "end": { "utc": "2026-11-26T01:30:00Z", "tz": "Asia/Bangkok" },
+      "area": { "label": "Nai Yang, Phuket", "lat": 8.083, "lon": 98.302, "r": 1500 },
+      "exact": null
+    },
+    {
+      "id": "qr843",
+      "type": "flight",
+      "title": "Phuket → Doha",
+      "flightNo": "QR 843",
+      "callsign": "QTR843",
+      "start": { "utc": "2026-11-26T01:30:00Z", "tz": "Asia/Bangkok" },
+      "end": { "utc": "2026-11-26T08:10:00Z", "tz": "Asia/Qatar" },
+      "from": { "name": "Phuket International", "code": "HKT", "lat": 8.1132, "lon": 98.3169 },
+      "to": { "name": "Doha Hamad International", "code": "DOH", "lat": 25.2731, "lon": 51.6081 }
+    },
+    {
+      "id": "doh-overstap",
+      "type": "layover",
+      "title": "Overstap in Doha",
+      "start": { "utc": "2026-11-26T08:10:00Z", "tz": "Asia/Qatar" },
+      "end": { "utc": "2026-11-26T11:35:00Z", "tz": "Asia/Qatar" },
+      "place": { "name": "Doha Hamad International", "code": "DOH", "lat": 25.2731, "lon": 51.6081 }
+    },
+    {
+      "id": "qr283",
+      "type": "flight",
+      "title": "Doha → Amsterdam",
+      "flightNo": "QR 283",
+      "callsign": "QTR283",
+      "start": { "utc": "2026-11-26T11:35:00Z", "tz": "Asia/Qatar" },
+      "end": { "utc": "2026-11-26T19:20:00Z", "tz": "Europe/Amsterdam" },
+      "from": { "name": "Doha Hamad International", "code": "DOH", "lat": 25.2731, "lon": 51.6081 },
+      "to": { "name": "Amsterdam Schiphol", "code": "AMS", "lat": 52.3086, "lon": 4.7639 }
+    }
+  ]
+}

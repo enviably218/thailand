@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Thailand 2026 · reisblog</title>
+  <meta name="description" content="Reisblog: 10 – 26 november door Thailand.">
+  <meta property="og:title" content="Thailand 2026 · reisblog">
+  <meta property="og:description" content="Dagelijkse verhalen van onderweg: Bangkok, Chiang Mai en Phuket.">
+  <meta name="theme-color" content="#f7f4ee">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Thailand 2026" href="feed.xml">
+  <link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-top">
+        <span class="kicker">Reisblog</span>
+        <button class="btn btn-ghost btn-lock" id="lockBtn" type="button"></button>
+      </div>
+      <h1 id="title">Thailand 2026</h1>
+      <p class="subtitle" id="subtitle"></p>
+      <ol class="route-chips" id="routeChips" aria-label="Route"></ol>
+      <div class="status" id="status" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="wrap intro-grid">
+      <div class="intro prose" id="intro"></div>
+      <aside class="card subscribe" id="subscribe" hidden>
+        <div class="subscribe-head"><span class="ico">__MAIL__</span><h2>Elke avond een samenvatting</h2></div>
+        <p>Eén mail per dag met de nieuwe berichten, rond 21:00 Nederlandse tijd. Afmelden kan altijd.</p>
+        <form id="subscribeForm" method="post" target="_blank">
+          <label class="sr-only" for="email">E-mailadres</label>
+          <input id="email" type="email" name="email" placeholder="jouw@email.nl" required autocomplete="email">
+          <button class="btn btn-primary" type="submit">Aanmelden</button>
+        </form>
+        <p class="fine">Liever een feedlezer? Volg via <a href="feed.xml">RSS</a>.</p>
+      </aside>
+    </section>
+
+    <section class="wrap journey" id="reis">
+      <div class="section-head">
+        <h2>De reis</h2>
+        <div class="seg" role="group" aria-label="Kaartweergave">
+          <button type="button" data-view="thailand" class="on">Thailand</button>
+          <button type="button" data-view="all">Hele reis</button>
+          <button type="button" data-view="now">Nu</button>
+        </div>
+      </div>
+      <div class="journey-grid">
+        <div class="map-card card">
+          <div id="map" class="map" role="region" aria-label="Kaart van de reis"></div>
+          <ul class="legend">
+            <li><i class="lg-done"></i>Afgelegd</li>
+            <li><i class="lg-plan"></i>Planning</li>
+            <li><i class="lg-post"></i>Bericht</li>
+            <li><i class="lg-stay"></i>Verblijf (wijk)</li>
+          </ul>
+        </div>
+        <div class="timeline-card card">
+          <div class="timeline-head">
+            <h3>Tijdlijn</h3>
+            <span class="fine">lokale tijd · Nederlandse tijd</span>
+          </div>
+          <div class="timeline" id="timeline"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="wrap posts-wrap" id="verhalen">
+      <div class="section-head"><h2>Verhalen</h2><span class="fine" id="postCount"></span></div>
+      <div id="posts" class="posts"></div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p><a href="feed.xml">RSS</a> · Kaartgegevens &copy; OpenStreetMap-bijdragers, &copy; CARTO</p>
+  </footer>
+
+  <dialog id="unlockDlg" class="dlg">
+    <form method="dialog" id="unlockForm">
+      <h2>Exacte locaties tonen</h2>
+      <p>Openbaar staat elke locatie alleen bij benadering. Met het wachtwoord zie je de exacte plekken. Het wachtwoord wordt alleen in deze browser gebruikt.</p>
+      <label for="pw">Wachtwoord</label>
+      <input id="pw" type="password" autocomplete="current-password" required>
+      <p class="err" id="pwErr" hidden></p>
+      <div class="dlg-actions">
+        <button type="button" class="btn btn-ghost" value="cancel" id="unlockCancel">Annuleren</button>
+        <button type="submit" class="btn btn-primary" id="unlockGo">Ontgrendelen</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lb-close" type="button" aria-label="Sluiten">&times;</button>
+    <button class="lb-prev" type="button" aria-label="Vorige">&#8249;</button>
+    <figure><img alt=""><figcaption></figcaption></figure>
+    <button class="lb-next" type="button" aria-label="Volgende">&#8250;</button>
+  </div>
+
+  <script src="assets/vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>
