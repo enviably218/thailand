@@ -84,5 +84,34 @@
    "ct": "5AtKxmPPSPh+Tf6HyEMIaXw6cZLI6k1JIm28/gjqeuWZN+Bjg6nnVS2fUZ2RoOmcZY0/byYpsCgDXQ=="
   },
   "photos": []
+ },
+ {
+  "id": "20261111-49xvmr",
+  "title": "Aankomst in bangkok",
+  "body": "Na een harde landing neergeploft op Bangkok. Eerst nog langs een hele boze meneer van immigratie, denk dat ie hangry was. Nu met de trein richting het hotel, gelukkig is het spitsuur!!",
+  "time": "2026-11-11T11:05:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.69251,
+   "lon": 100.75003,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ban Khlong Nong Ngu Hao, Nong Prue"
+  },
+  "exact": {
+   "iv": "G8opo30AM1+wJqda",
+   "ct": "fGAnq046sWK3hepd+QO3qGoVuG0HMk5YfD+XC/t3NktNO3XpseeCxjAm9rH7mhnHlLAYs2qROR7Os7g="
+  },
+  "photos": [
+   {
+    "src": "photos/20261111-49xvmr/mwc0jbu5-1.jpg",
+    "thumb": "photos/20261111-49xvmr/mwc0jbu5-1-t.jpg",
+    "caption": "Centrale hal Bangkok ",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
