@@ -113,5 +113,52 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261111-0vh4r2",
+  "title": "Aangekomen bij het 1e hotel",
+  "body": "Na een zoektocht aangekomen bij het 1e hotel. Ik snapte niks van het hele verhaal dat ze vertelde maar er is een zwembad. Daarnaast zit er een leuke eetmarkt naast het hotel.",
+  "time": "2026-11-11T13:15:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.79581,
+   "lon": 100.57247,
+   "r": 500,
+   "kind": "grid",
+   "label": "Din Daeng, Bangkok"
+  },
+  "exact": {
+   "iv": "Cqamqw97G+Ym40gK",
+   "ct": "2/KxlUCK6/ttAmxJn75xJfAD0KeQreC9cU5kA9QXA2TH6B8IPLWkJ5Kb/jaHuicV/NAazGbWGaB1YPk="
+  },
+  "photos": [
+   {
+    "src": "photos/20261111-0vh4r2/mwc56lbr-1.jpg",
+    "thumb": "photos/20261111-0vh4r2/mwc56lbr-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261111-0vh4r2/mwc56lbr-2.jpg",
+    "thumb": "photos/20261111-0vh4r2/mwc56lbr-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261111-0vh4r2/mwc56lbr-3.jpg",
+    "thumb": "photos/20261111-0vh4r2/mwc56lbr-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
