@@ -65,5 +65,24 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261111-uskgaf",
+  "title": "Geland op Muscat",
+  "body": "En we zijn geland op Muscat airport. T is een mooi vliegveld, maar je mag geen foto's maken, zonde... Het is net zonsopkomst met als achtergrond de bergen rondom de stad.",
+  "time": "2026-11-11T02:45:00.000Z",
+  "tz": "Asia/Muscat",
+  "loc": {
+   "lat": 23.60537,
+   "lon": 58.28863,
+   "r": 500,
+   "kind": "grid",
+   "label": "Block 302, Seeb Province"
+  },
+  "exact": {
+   "iv": "skkXGN39ljuhHBzK",
+   "ct": "5AtKxmPPSPh+Tf6HyEMIaXw6cZLI6k1JIm28/gjqeuWZN+Bjg6nnVS2fUZ2RoOmcZY0/byYpsCgDXQ=="
+  },
+  "photos": []
  }
 ]
