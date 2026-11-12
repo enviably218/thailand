@@ -160,5 +160,124 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261112-f66wzl",
+  "title": "Long tail boat",
+  "body": "Eerste activiteit op de planning is Bangkok zien vanaf het water met een typische long tail boat. Eerst nog een ritje in de overvolle metro en dan een stuk lopen langs de paleizen en tempels. Een groot gedeelte van de stad is verbonden met kanaaltjes en rivieren. Tussendoor een tussenstop bij de artist house en bekende toeristische plek waar kunstenaars samen komen. Daarna nog lunch gepakt bij de foodhall die hieraan verbonden is.",
+  "time": "2026-11-12T05:59:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.74641,
+   "lon": 100.49111,
+   "r": 500,
+   "kind": "grid",
+   "label": "Phra Nakhon, Bangkok"
+  },
+  "exact": {
+   "iv": "KHQmnM4cEAyITKc4",
+   "ct": "HFQ2DeqxSWN4sTCbBPZHkg23cMP6B4NFqOJt0TtvMPNTCqSlYvHR8RXmPTmxiDmDW3vzUw8o9MSrJGM="
+  },
+  "photos": [
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-1.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-1-t.jpg",
+    "caption": "Foodhall",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-2.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-2-t.jpg",
+    "caption": "Over de Chao Phraya rivier",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-3.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-3-t.jpg",
+    "caption": "Art house aan het water",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-4.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-4-t.jpg",
+    "caption": "Art house",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-5.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-5-t.jpg",
+    "caption": "69 meter hoge gouden Buddha ",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-6.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-6-t.jpg",
+    "caption": "Tempel",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-7.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-7-t.jpg",
+    "caption": "Huizen aan het water",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-8.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-8-t.jpg",
+    "caption": "Long tail boat",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-9.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-9-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-10.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-10-t.jpg",
+    "caption": "Metro, iedereen netjes in rijtjes",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261112-f66wzl/mwd51pwf-11.jpg",
+    "thumb": "photos/20261112-f66wzl/mwd51pwf-11-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
