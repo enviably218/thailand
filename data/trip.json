@@ -83,7 +83,7 @@
    "type": "stay",
    "title": "Bangkok",
    "start": {
-    "utc": "2026-11-11T10:15:00.000Z",
+    "utc": "2026-11-11T12:15:00.000Z",
     "tz": "Asia/Bangkok"
    },
    "end": {
@@ -97,8 +97,8 @@
     "r": 1800
    },
    "exact": {
-    "iv": "E9P3Yqwy6tJOCVVu",
-    "ct": "Vt5+35v1GEyoosGDwu1i+OucAucm1Dr3lc3obtosjftq4LVCaepwmfx/jcbGwVu/1ozpkkp6SOqoi4384uirSB71dt9CxkGgQc7P/UddGtbaVt/Aj1xWnDVovtlapPj5wkhv2iY2kJvuHR2jfC5Jk8g3B+inmJEOrwEqV0ss9befa1B0LJyb9gb5pKgymW1HvyLKzDH8NqPh/A=="
+    "iv": "roOUux9NgkYiHOo2",
+    "ct": "A5c2PCzvhQaw9Yp6C28ocsCmhO3FkdeW6auyyNFtyK61JHQQD/X40jYSJO2bVVf9/oPIJO9FE8ZIu6/9+/ZHwLZao8n01G8l7nXTK6qniZbLSHKM8X1vkmFUSC5zLGLrO4z1AzV817stw3XbP3R4coy4t2F34ZNnew2Z0FIbM+Eab3K0IkcibMvVkSmjgpmxL3xxbDIb5IJmmQ=="
    }
   },
   {
