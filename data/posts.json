@@ -279,5 +279,52 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261112-hceukp",
+  "title": "Eten bij de foodcourt en de mall",
+  "body": "Nomnomnomnom eten",
+  "time": "2026-11-12T08:20:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.72844,
+   "lon": 100.53889,
+   "r": 500,
+   "kind": "grid",
+   "label": "Pathum Wan, Bangkok"
+  },
+  "exact": {
+   "iv": "RiHQ6lvDZqmHUGMX",
+   "ct": "FOHArNBXXurdf+0Sjp4kOR4wXbzoKPEZ9nwSCNMZha/HtA6RtM87hOgHvrrsQbB6LoE="
+  },
+  "photos": [
+   {
+    "src": "photos/20261112-hceukp/mwdedtjd-1.jpg",
+    "thumb": "photos/20261112-hceukp/mwdedtjd-1-t.jpg",
+    "caption": "Mall",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261112-hceukp/mwdedtjd-2.jpg",
+    "thumb": "photos/20261112-hceukp/mwdedtjd-2-t.jpg",
+    "caption": "Yoguruto",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261112-hceukp/mwdedtjd-3.jpg",
+    "thumb": "photos/20261112-hceukp/mwdedtjd-3-t.jpg",
+    "caption": "Food court",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
