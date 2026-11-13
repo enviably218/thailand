@@ -326,5 +326,61 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261113-b4jky3",
+  "title": "Eten + rooftopbar",
+  "body": "1x pittig eten\n2x sterke cocktail wat de rit terug erg leuk maakte",
+  "time": "2026-11-12T14:09:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.73742,
+   "lon": 100.56124,
+   "r": 500,
+   "kind": "grid",
+   "label": "Vadhana, Bangkok"
+  },
+  "exact": {
+   "iv": "z3Df0gSvSTmcZqTz",
+   "ct": "OMXfWUydx7duRve9FadGSFHSOJrtDRyCvXcTW6GFA/sWVFD/ocwYXT5WxZxFXiphrgA="
+  },
+  "photos": [
+   {
+    "src": "photos/20261113-b4jky3/mwea5rr3-1.jpg",
+    "thumb": "photos/20261113-b4jky3/mwea5rr3-1-t.jpg",
+    "caption": "Rooftop bar",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-b4jky3/mwea5rr3-2.jpg",
+    "thumb": "photos/20261113-b4jky3/mwea5rr3-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-b4jky3/mwea5rr3-3.jpg",
+    "thumb": "photos/20261113-b4jky3/mwea5rr3-3-t.jpg",
+    "caption": "Mall",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261113-b4jky3/mwea5rr3-4.jpg",
+    "thumb": "photos/20261113-b4jky3/mwea5rr3-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
