@@ -382,5 +382,52 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261113-ga2rzo",
+  "title": "Vandaag: train market en floating market",
+  "body": "Vroeg eruit om de chaos van de stad te zien en op tijd bij de organisatie van het uitstapje te zijn",
+  "time": "2026-11-13T01:14:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.73293,
+   "lon": 100.52694,
+   "r": 500,
+   "kind": "grid",
+   "label": "Bang Rak, Bangkok"
+  },
+  "exact": {
+   "iv": "RVUqWJPr50J6qXbh",
+   "ct": "rrPQWucsrZvM+CgbVVr5N8O7pZvfslJBX27crSV5DwqVRwR5BiBt72Zeg1FuCFSgR50XZg2V3oVzyoI="
+  },
+  "photos": [
+   {
+    "src": "photos/20261113-ga2rzo/mweaaa1z-1.jpg",
+    "thumb": "photos/20261113-ga2rzo/mweaaa1z-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-ga2rzo/mweaaa1z-2.jpg",
+    "thumb": "photos/20261113-ga2rzo/mweaaa1z-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-ga2rzo/mweaaa1z-3.jpg",
+    "thumb": "photos/20261113-ga2rzo/mweaaa1z-3-t.jpg",
+    "caption": "Mall voor koffie",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
