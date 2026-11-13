@@ -512,5 +512,79 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261113-hvjsdr",
+  "title": "Floating market",
+  "body": "De markt bestaande uit bootjes, met heeeeel veel touristen...",
+  "time": "2026-11-13T06:43:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.51734,
+   "lon": 99.96872,
+   "r": 500,
+   "kind": "grid",
+   "label": "บ้านซำปากง, Damnoen Saduak"
+  },
+  "exact": {
+   "iv": "BFygeFr83UARNKcB",
+   "ct": "u5FVXJkKgGS2GmZcJQjSOH2fDeTHtzJzK6iuhyQgB3ohuJ9YJVJ2NqpmWPs9VXVz4g=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261113-hvjsdr/mweo78l7-1.jpg",
+    "thumb": "photos/20261113-hvjsdr/mweo78l7-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-hvjsdr/mweo78l7-2.jpg",
+    "thumb": "photos/20261113-hvjsdr/mweo78l7-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-hvjsdr/mweo78l7-3.jpg",
+    "thumb": "photos/20261113-hvjsdr/mweo78l7-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-hvjsdr/mweo78l7-4.jpg",
+    "thumb": "photos/20261113-hvjsdr/mweo78l7-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-hvjsdr/mweo78l7-5.jpg",
+    "thumb": "photos/20261113-hvjsdr/mweo78l7-5-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261113-hvjsdr/mweo78l7-6.jpg",
+    "thumb": "photos/20261113-hvjsdr/mweo78l7-6-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
