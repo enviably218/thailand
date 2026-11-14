@@ -662,5 +662,88 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261114-bzgp8t",
+  "title": "Vintage mall en chatuchak weekend market",
+  "body": "",
+  "time": "2026-11-14T08:58:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.80031,
+   "lon": 100.55128,
+   "r": 500,
+   "kind": "grid",
+   "label": "Chatuchak, Bangkok"
+  },
+  "exact": {
+   "iv": "YZcqfTK+3iqU0Jv5",
+   "ct": "JKPParxzsnSlXTWoqc18rYNZFr8HHgO488aN0RDQ55O3MBwUa09Mf7ATAGMXXDYxkQ=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261114-bzgp8t/mwgcqzyn-1.jpg",
+    "thumb": "photos/20261114-bzgp8t/mwgcqzyn-1-t.jpg",
+    "caption": "Red building vintage",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261114-bzgp8t/mwgcqzyn-2.jpg",
+    "thumb": "photos/20261114-bzgp8t/mwgcqzyn-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261114-bzgp8t/mwgcqzyn-3.jpg",
+    "thumb": "photos/20261114-bzgp8t/mwgcqzyn-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261114-bzgp8t/mwgcqzyn-4.jpg",
+    "thumb": "photos/20261114-bzgp8t/mwgcqzyn-4-t.jpg",
+    "caption": "Chatuchak weekend market ",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261114-bzgp8t/mwgcqzyn-5.jpg",
+    "thumb": "photos/20261114-bzgp8t/mwgcqzyn-5-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261114-bzgp8t/mwgcqzyn-6.jpg",
+    "thumb": "photos/20261114-bzgp8t/mwgcqzyn-6-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261114-bzgp8t/mwgcqzyn-7.jpg",
+    "thumb": "photos/20261114-bzgp8t/mwgcqzyn-7-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
