@@ -633,5 +633,34 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261114-mkcb2d",
+  "title": "Feesten op Khao San Road",
+  "body": "",
+  "time": "2026-11-13T18:23:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 13.75988,
+   "lon": 100.49689,
+   "r": 500,
+   "kind": "grid",
+   "label": "Phra Nakhon, Bangkok"
+  },
+  "exact": {
+   "iv": "DMo+POd83g5T0P70",
+   "ct": "nvX8AOkiys4i2JkhZ1DcQKTJztejMo2ozBEo56rnVbkGoRzaWtZseZr/QJAhAWuFCwM="
+  },
+  "photos": [
+   {
+    "src": "photos/20261114-mkcb2d/mwg2xr91-1.jpg",
+    "thumb": "photos/20261114-mkcb2d/mwg2xr91-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
