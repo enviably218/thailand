@@ -745,5 +745,79 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261115-w2n6xw",
+  "title": "Trein naar Chiang Mai",
+  "body": "Eerste uur door Bangkok en vanaf dan over de vlaktes tot we bij de bergen aankomen.",
+  "time": "2026-11-15T04:18:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 14.35726,
+   "lon": 100.58344,
+   "r": 500,
+   "kind": "grid",
+   "label": "Mu 4, Ayothaya Town Municipality"
+  },
+  "exact": {
+   "iv": "xoGBurq+rgMib7MX",
+   "ct": "FgIuRyz6D+BWnJdK2eIvJkgvORE5TxHr7St/xStcr7THbMR9ncscy0ksGCHvIGbfj2E="
+  },
+  "photos": [
+   {
+    "src": "photos/20261115-w2n6xw/mwhs3iez-1.jpg",
+    "thumb": "photos/20261115-w2n6xw/mwhs3iez-1-t.jpg",
+    "caption": "Bangkok train terminal",
+    "w": 720,
+    "h": 1280,
+    "tw": 405,
+    "th": 720
+   },
+   {
+    "src": "photos/20261115-w2n6xw/mwhs3iez-2.jpg",
+    "thumb": "photos/20261115-w2n6xw/mwhs3iez-2-t.jpg",
+    "caption": "",
+    "w": 1013,
+    "h": 1800,
+    "tw": 405,
+    "th": 720
+   },
+   {
+    "src": "photos/20261115-w2n6xw/mwhs3iez-3.jpg",
+    "thumb": "photos/20261115-w2n6xw/mwhs3iez-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261115-w2n6xw/mwhs3iez-4.jpg",
+    "thumb": "photos/20261115-w2n6xw/mwhs3iez-4-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261115-w2n6xw/mwhs3iez-5.jpg",
+    "thumb": "photos/20261115-w2n6xw/mwhs3iez-5-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261115-w2n6xw/mwhs3iez-6.jpg",
+    "thumb": "photos/20261115-w2n6xw/mwhs3iez-6-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
