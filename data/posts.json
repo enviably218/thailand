@@ -866,5 +866,88 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261115-utk8hg",
+  "title": "Chiang Mai",
+  "body": "Na 10 uur 20 minuten in de trein eindelijk aangekomen in Chiang Mai",
+  "time": "2026-11-15T13:22:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.78593,
+   "lon": 99.00152,
+   "r": 500,
+   "kind": "grid",
+   "label": "Mengrai, Chiang Mai City Municipality"
+  },
+  "exact": {
+   "iv": "TXd74i4arw/95JpM",
+   "ct": "B/BClZU4oN29rR4KcPaZwZIOpMefQavkU5DueW8kLdOirj3aZE6TCCPHpHvVxMSUES9hDvlXhEE3DA=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261115-utk8hg/mwhv6udc-1.jpg",
+    "thumb": "photos/20261115-utk8hg/mwhv6udc-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261115-utk8hg/mwhv6udc-2.jpg",
+    "thumb": "photos/20261115-utk8hg/mwhv6udc-2-t.jpg",
+    "caption": "Station",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261115-utk8hg/mwhv6udc-3.jpg",
+    "thumb": "photos/20261115-utk8hg/mwhv6udc-3-t.jpg",
+    "caption": "Iron Bridge",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261115-utk8hg/mwhv6udc-4.jpg",
+    "thumb": "photos/20261115-utk8hg/mwhv6udc-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261115-utk8hg/mwhv6udc-5.jpg",
+    "thumb": "photos/20261115-utk8hg/mwhv6udc-5-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261115-utk8hg/mwhv6udc-6.jpg",
+    "thumb": "photos/20261115-utk8hg/mwhv6udc-6-t.jpg",
+    "caption": "1e gekko in Chiang Mai ",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261115-utk8hg/mwhv6udc-7.jpg",
+    "thumb": "photos/20261115-utk8hg/mwhv6udc-7-t.jpg",
+    "caption": "Papaya salad en groene curry met Chai Tea",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
