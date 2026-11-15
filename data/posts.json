@@ -819,5 +819,52 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261115-2ast8k",
+  "title": "Door de bergen/Jungle",
+  "body": "Langzaam meer de hoogte in en tussen de dicht beboste stukken.",
+  "time": "2026-11-15T08:19:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.29186,
+   "lon": 99.81786,
+   "r": 500,
+   "kind": "grid",
+   "label": ""
+  },
+  "exact": {
+   "iv": "O855O3vNC1yx07h0",
+   "ct": "u59QWGObkWcW7+UdJmC66pxQPaQ9EKGXL9ZD8XV37AG2qnpa7ugGT11ZI/VeqHOyK1S/W/IU4nGB"
+  },
+  "photos": [
+   {
+    "src": "photos/20261115-2ast8k/mwhv6co7-1.jpg",
+    "thumb": "photos/20261115-2ast8k/mwhv6co7-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261115-2ast8k/mwhv6co7-2.jpg",
+    "thumb": "photos/20261115-2ast8k/mwhv6co7-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261115-2ast8k/mwhv6co7-3.jpg",
+    "thumb": "photos/20261115-2ast8k/mwhv6co7-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
