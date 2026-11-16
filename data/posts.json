@@ -1032,5 +1032,52 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261116-3vjjf3",
+  "title": "Eten en Jazzbar",
+  "body": "En dan kom je toevallig een medereiziger eerder ontmoet in Bangkok tegen in Chiang Mai!",
+  "time": "2026-11-16T16:08:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.79492,
+   "lon": 98.98782,
+   "r": 500,
+   "kind": "grid",
+   "label": "แขวงนครพิงค์, Chiang Mai City Municipality"
+  },
+  "exact": {
+   "iv": "6fEp/OHQC6CGHqXO",
+   "ct": "6bBMCD/mm2WEE1UOcnyuAuyOXojqUa20QiceyxmX/XchhVqdivmZgg7pvnoKQlLQMQ=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261116-3vjjf3/mwjiox2q-1.jpg",
+    "thumb": "photos/20261116-3vjjf3/mwjiox2q-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261116-3vjjf3/mwjiox2q-2.jpg",
+    "thumb": "photos/20261116-3vjjf3/mwjiox2q-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261116-3vjjf3/mwjiox2q-3.jpg",
+    "thumb": "photos/20261116-3vjjf3/mwjiox2q-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
