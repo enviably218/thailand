@@ -949,5 +949,88 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261116-55la97",
+  "title": "Tempels",
+  "body": "",
+  "time": "2026-11-16T07:06:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.78593,
+   "lon": 98.98728,
+   "r": 500,
+   "kind": "grid",
+   "label": "แขวงศรีวิชัย, Chiang Mai City Municipality"
+  },
+  "exact": {
+   "iv": "bWvCY9ThfgIIJt90",
+   "ct": "Jen5hEWLaRr4jDMmGACw8JOuZyYXlwhYi0lSXYMI9A+9aGUIQ3itX0SeT8JK0sYA4w=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261116-55la97/mwjinist-1.jpg",
+    "thumb": "photos/20261116-55la97/mwjinist-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261116-55la97/mwjinist-2.jpg",
+    "thumb": "photos/20261116-55la97/mwjinist-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261116-55la97/mwjinist-3.jpg",
+    "thumb": "photos/20261116-55la97/mwjinist-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261116-55la97/mwjinist-4.jpg",
+    "thumb": "photos/20261116-55la97/mwjinist-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261116-55la97/mwjinist-5.jpg",
+    "thumb": "photos/20261116-55la97/mwjinist-5-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261116-55la97/mwjinist-6.jpg",
+    "thumb": "photos/20261116-55la97/mwjinist-6-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261116-55la97/mwjinist-7.jpg",
+    "thumb": "photos/20261116-55la97/mwjinist-7-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
