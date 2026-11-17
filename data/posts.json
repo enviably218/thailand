@@ -1236,5 +1236,61 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261117-jwvisb",
+  "title": "Warchirathan waterval",
+  "body": "",
+  "time": "2026-11-17T09:08:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.6961,
+   "lon": 98.37985,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ban Mae Na Chon Nuea, Mae Chaem"
+  },
+  "exact": {
+   "iv": "qCmWPBpVEGE8HxsS",
+   "ct": "NHPWE/ocge2a9NVMVl94HbceLgUZEJZ0AP1XtWjm5kl1xveu50jBvVjp74GifxCngQ=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261117-jwvisb/mwkh0061-1.jpg",
+    "thumb": "photos/20261117-jwvisb/mwkh0061-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261117-jwvisb/mwkh0061-2.jpg",
+    "thumb": "photos/20261117-jwvisb/mwkh0061-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261117-jwvisb/mwkh0061-3.jpg",
+    "thumb": "photos/20261117-jwvisb/mwkh0061-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261117-jwvisb/mwkh0061-4.jpg",
+    "thumb": "photos/20261117-jwvisb/mwkh0061-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
