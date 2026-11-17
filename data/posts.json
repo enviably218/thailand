@@ -1153,5 +1153,88 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261117-pgy5k3",
+  "title": "Mae Klang Luang village",
+  "body": "Een klein dorpje in de bergen, vroeger met vooral opium maar nu met koffiebonen. Veel planten kunnen proeven en zien en natuurlijk verse koffie.",
+  "time": "2026-11-17T08:01:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.5389,
+   "lon": 98.54478,
+   "r": 500,
+   "kind": "grid",
+   "label": "Mae Klang Luang, Chom Thong"
+  },
+  "exact": {
+   "iv": "0pHdSy8+iW+Tj96j",
+   "ct": "U4gaAciKj6HLCTzlRgA1Q9oHY2ob3IX0pjRFKGlnKFX4tCLOw9cj6d8u0LTY64ynmh2jY8UoVuMtbA=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261117-pgy5k3/mwkelpaf-1.jpg",
+    "thumb": "photos/20261117-pgy5k3/mwkelpaf-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261117-pgy5k3/mwkelpaf-2.jpg",
+    "thumb": "photos/20261117-pgy5k3/mwkelpaf-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261117-pgy5k3/mwkelpaf-3.jpg",
+    "thumb": "photos/20261117-pgy5k3/mwkelpaf-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261117-pgy5k3/mwkelpaf-4.jpg",
+    "thumb": "photos/20261117-pgy5k3/mwkelpaf-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261117-pgy5k3/mwkelpaf-5.jpg",
+    "thumb": "photos/20261117-pgy5k3/mwkelpaf-5-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261117-pgy5k3/mwkelpaf-6.jpg",
+    "thumb": "photos/20261117-pgy5k3/mwkelpaf-6-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261117-pgy5k3/mwkelpaf-7.jpg",
+    "thumb": "photos/20261117-pgy5k3/mwkelpaf-7-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
