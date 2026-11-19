@@ -1431,5 +1431,79 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261119-hun1al",
+  "title": "Doi suthep",
+  "body": "Tempel en 360 stappen omhoog",
+  "time": "2026-11-19T08:02:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.8039,
+   "lon": 98.92193,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ban Bhubing, Suthep Town Municipality"
+  },
+  "exact": {
+   "iv": "781hD6X8UblRZeOb",
+   "ct": "yhJIX3YCEsiPoJX7vI3jbUm2B0Yg5dVj3qLyK18w2x6eH6H1rMOKA7NPRcQtJTyC7Q=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261119-hun1al/mwnfz5am-1.jpg",
+    "thumb": "photos/20261119-hun1al/mwnfz5am-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261119-hun1al/mwnfz5am-2.jpg",
+    "thumb": "photos/20261119-hun1al/mwnfz5am-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261119-hun1al/mwnfz5am-3.jpg",
+    "thumb": "photos/20261119-hun1al/mwnfz5am-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261119-hun1al/mwnfz5am-4.jpg",
+    "thumb": "photos/20261119-hun1al/mwnfz5am-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261119-hun1al/mwnfz5am-5.jpg",
+    "thumb": "photos/20261119-hun1al/mwnfz5am-5-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261119-hun1al/mwnfz5am-6.jpg",
+    "thumb": "photos/20261119-hun1al/mwnfz5am-6-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
