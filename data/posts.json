@@ -1597,5 +1597,43 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261119-g9yz8s",
+  "title": "Eten en reggae bar",
+  "body": "",
+  "time": "2026-11-19T16:13:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.79042,
+   "lon": 98.98992,
+   "r": 500,
+   "kind": "grid",
+   "label": "แขวงนครพิงค์, Chiang Mai City Municipality"
+  },
+  "exact": {
+   "iv": "18l4ueYYRcwhqGlX",
+   "ct": "2i36Xai+17w6RUZ4aHmd9XoEwHPQXMRAOmRWfZcbi+H6ptdCPkv8tZXTYagbq6qf"
+  },
+  "photos": [
+   {
+    "src": "photos/20261119-g9yz8s/mwohu0ov-1.jpg",
+    "thumb": "photos/20261119-g9yz8s/mwohu0ov-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261119-g9yz8s/mwohu0ov-2.jpg",
+    "thumb": "photos/20261119-g9yz8s/mwohu0ov-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
