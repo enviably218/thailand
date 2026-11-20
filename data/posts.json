@@ -1635,5 +1635,70 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261120-8phh2s",
+  "title": "Elephant sanctuary",
+  "body": "",
+  "time": "2026-11-20T04:30:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.75898,
+   "lon": 98.87659,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ban Thung Pong Nuea, Hang Dong"
+  },
+  "exact": {
+   "iv": "RN/YfLb5EI2FtNN3",
+   "ct": "T8z1sdM7NdDeazQ+QI44DyR/4xq7Hmllj8FJKIT/w5Dyw53ApGqE1q4RYJLFIt1rDh3dpgNGMJVPvA=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261120-8phh2s/mwohvfv1-1.jpg",
+    "thumb": "photos/20261120-8phh2s/mwohvfv1-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261120-8phh2s/mwohvfv1-2.jpg",
+    "thumb": "photos/20261120-8phh2s/mwohvfv1-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261120-8phh2s/mwohvfv1-3.jpg",
+    "thumb": "photos/20261120-8phh2s/mwohvfv1-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261120-8phh2s/mwohvfv1-4.jpg",
+    "thumb": "photos/20261120-8phh2s/mwohvfv1-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261120-8phh2s/mwohvfv1-5.jpg",
+    "thumb": "photos/20261120-8phh2s/mwohvfv1-5-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
