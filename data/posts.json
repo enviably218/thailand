@@ -1774,5 +1774,52 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261121-5ri5vj",
+  "title": "Arts and crafts",
+  "body": "",
+  "time": "2026-11-21T07:11:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.78144,
+   "lon": 98.9799,
+   "r": 500,
+   "kind": "grid",
+   "label": "แขวงศรีวิชัย, Chiang Mai City Municipality"
+  },
+  "exact": {
+   "iv": "9NW52xEujrcFhU7Y",
+   "ct": "r42pfVSroj+X4yz4GG1g2Qi1wfdLtasr1KDn+PxvvAfeLr/rs0VjTGiZXFMgCvtI+6dIxDiad8mEDQ=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261121-5ri5vj/mwq4pchu-1.jpg",
+    "thumb": "photos/20261121-5ri5vj/mwq4pchu-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261121-5ri5vj/mwq4pchu-2.jpg",
+    "thumb": "photos/20261121-5ri5vj/mwq4pchu-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261121-5ri5vj/mwq4pchu-3.jpg",
+    "thumb": "photos/20261121-5ri5vj/mwq4pchu-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
