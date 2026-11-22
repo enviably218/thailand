@@ -1868,5 +1868,43 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261122-tz6as3",
+  "title": "Laatste uurtjes Chiang Mai",
+  "body": "Natuurlijk helemaal huilen, maar op naar Phuket",
+  "time": "2026-11-22T04:41:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.79042,
+   "lon": 98.98518,
+   "r": 500,
+   "kind": "grid",
+   "label": "แขวงศรีวิชัย, Chiang Mai City Municipality"
+  },
+  "exact": {
+   "iv": "I5ZCX8BYtbUKv7EU",
+   "ct": "l8xN8KPFMmiUBVBa5Xk6mKOVQyLU77DSpIrXwLYHNTaywQFVro9V3BybjtBAP4MejA=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261122-tz6as3/mwrj5j3n-1.jpg",
+    "thumb": "photos/20261122-tz6as3/mwrj5j3n-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261122-tz6as3/mwrj5j3n-2.jpg",
+    "thumb": "photos/20261122-tz6as3/mwrj5j3n-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
