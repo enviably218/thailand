@@ -1821,5 +1821,52 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261122-wklzdc",
+  "title": "Nightmarket",
+  "body": "",
+  "time": "2026-11-21T14:23:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.83534,
+   "lon": 99.01636,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ban Khatthaliya, San Sai"
+  },
+  "exact": {
+   "iv": "nqMuygvK6RoprQmq",
+   "ct": "KoYAGlNv34A7yqhPANqhsadyc+XXF+6bTB8/WoAbHSDKHE3UX5tjUJro98YsEa8Isw=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261122-wklzdc/mwr7qkrd-1.jpg",
+    "thumb": "photos/20261122-wklzdc/mwr7qkrd-1-t.jpg",
+    "caption": "",
+    "w": 1013,
+    "h": 1800,
+    "tw": 405,
+    "th": 720
+   },
+   {
+    "src": "photos/20261122-wklzdc/mwr7qkrd-2.jpg",
+    "thumb": "photos/20261122-wklzdc/mwr7qkrd-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261122-wklzdc/mwr7qkrd-3.jpg",
+    "thumb": "photos/20261122-wklzdc/mwr7qkrd-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
