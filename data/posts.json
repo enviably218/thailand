@@ -1906,5 +1906,43 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261122-i92ul3",
+  "title": "Vliegveld en culinair hoogstandje",
+  "body": "",
+  "time": "2026-11-22T07:43:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.76797,
+   "lon": 98.96724,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ban Sai Kham, Suthep Town Municipality"
+  },
+  "exact": {
+   "iv": "rpVPhPboZ5xUfcxJ",
+   "ct": "2HXliGWXUNzn8w1dpIL6ECMhOYD9Iv485rqEeL8WFDLtuVKRxr+lVmefQ3Fc6Rddz1Z6Eboi9qPlyQ=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261122-i92ul3/mwrpv4xv-1.jpg",
+    "thumb": "photos/20261122-i92ul3/mwrpv4xv-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261122-i92ul3/mwrpv4xv-2.jpg",
+    "thumb": "photos/20261122-i92ul3/mwrpv4xv-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
