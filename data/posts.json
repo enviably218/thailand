@@ -1944,5 +1944,34 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261122-w25b8t",
+  "title": "2 uur vertraging maar we zitten",
+  "body": "",
+  "time": "2026-11-22T10:51:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 18.77246,
+   "lon": 98.96514,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ban Sai Kham, Suthep Town Municipality"
+  },
+  "exact": {
+   "iv": "X3fCzorvfRrclLHj",
+   "ct": "QP1JAnhfBPguY2arIhhpaqq9eGuBUFY3/TSiaFedSDtqTcjAp8msp8qUvgKCC+CfSqyVPL2d6ULLsw=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261122-w25b8t/mwrpwa7h-1.jpg",
+    "thumb": "photos/20261122-w25b8t/mwrpwa7h-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
