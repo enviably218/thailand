@@ -177,14 +177,12 @@
    "id": "cnx-hkt",
    "type": "flight",
    "title": "Chiang Mai → Phuket",
-   "flightNo": "",
-   "callsign": "",
    "start": {
-    "utc": "2026-11-22T09:15:00Z",
+    "utc": "2026-11-22T10:45:00.000Z",
     "tz": "Asia/Bangkok"
    },
    "end": {
-    "utc": "2026-11-22T11:20:00Z",
+    "utc": "2026-11-22T12:53:00.000Z",
     "tz": "Asia/Bangkok"
    },
    "from": {
@@ -198,7 +196,9 @@
     "code": "HKT",
     "lat": 8.1132,
     "lon": 98.3169
-   }
+   },
+   "flightNo": "",
+   "callsign": ""
   },
   {
    "id": "verblijf-phuket",
