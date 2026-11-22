@@ -1973,5 +1973,61 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261122-oo1a42",
+  "title": "Phuket",
+  "body": "",
+  "time": "2026-11-22T15:08:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 8.09603,
+   "lon": 98.30504,
+   "r": 500,
+   "kind": "grid",
+   "label": "Sakhu"
+  },
+  "exact": {
+   "iv": "pea/pyu9F/a2S7zH",
+   "ct": "EkF8OOsR/L0y6lNPkK9lRIsneGHU8dMBMERd5jtVOn1wdoDFfetGtXoJt86BD68uEdHUqPtdRUI="
+  },
+  "photos": [
+   {
+    "src": "photos/20261122-oo1a42/mwrz2ufe-1.jpg",
+    "thumb": "photos/20261122-oo1a42/mwrz2ufe-1-t.jpg",
+    "caption": "Bangkok ",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261122-oo1a42/mwrz2ufe-2.jpg",
+    "thumb": "photos/20261122-oo1a42/mwrz2ufe-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261122-oo1a42/mwrz2ufe-3.jpg",
+    "thumb": "photos/20261122-oo1a42/mwrz2ufe-3-t.jpg",
+    "caption": "Diner eten",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261122-oo1a42/mwrz2ufe-4.jpg",
+    "thumb": "photos/20261122-oo1a42/mwrz2ufe-4-t.jpg",
+    "caption": "Phuket Airport ",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
