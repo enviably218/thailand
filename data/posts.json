@@ -2260,5 +2260,61 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261123-y3nidw",
+  "title": "Meer Jazz",
+  "body": "",
+  "time": "2026-11-23T16:39:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 7.88493,
+   "lon": 98.39025,
+   "r": 500,
+   "kind": "grid",
+   "label": "ชุมชนสามัคคีสามกอง, Phuket City Municipality"
+  },
+  "exact": {
+   "iv": "Es5XCm4m1ft1snFV",
+   "ct": "B6gUnm+LRNTgUiVQSu8NAm/lSubGj41Lv0Nc802a6O29RGYaOc60O+AuXdrfX28blq0C1p3E9Mtz"
+  },
+  "photos": [
+   {
+    "src": "photos/20261123-y3nidw/mwthrguz-1.jpg",
+    "thumb": "photos/20261123-y3nidw/mwthrguz-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261123-y3nidw/mwthrguz-2.jpg",
+    "thumb": "photos/20261123-y3nidw/mwthrguz-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261123-y3nidw/mwthrguz-3.jpg",
+    "thumb": "photos/20261123-y3nidw/mwthrguz-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261123-y3nidw/mwthrguz-4.jpg",
+    "thumb": "photos/20261123-y3nidw/mwthrguz-4-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
