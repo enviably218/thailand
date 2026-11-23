@@ -2085,5 +2085,88 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261123-7k0ugg",
+  "title": "Pho ta toh sae shrine",
+  "body": "Aapjes kijken, aapjes kijken aapjed",
+  "time": "2026-11-23T07:57:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 7.8984,
+   "lon": 98.39799,
+   "r": 500,
+   "kind": "grid",
+   "label": "Ratsada"
+  },
+  "exact": {
+   "iv": "CjdkIHfFciGifHzf",
+   "ct": "ZhYWvavV0VVFE6rLqdlN1j/HcGxQCm80KCPMONGKKIilFiU69MA0KSoSDBESWiM="
+  },
+  "photos": [
+   {
+    "src": "photos/20261123-7k0ugg/mwt7ofl4-1.jpg",
+    "thumb": "photos/20261123-7k0ugg/mwt7ofl4-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261123-7k0ugg/mwt7ofl4-2.jpg",
+    "thumb": "photos/20261123-7k0ugg/mwt7ofl4-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261123-7k0ugg/mwt7ofl4-3.jpg",
+    "thumb": "photos/20261123-7k0ugg/mwt7ofl4-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261123-7k0ugg/mwt7ofl4-4.jpg",
+    "thumb": "photos/20261123-7k0ugg/mwt7ofl4-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261123-7k0ugg/mwt7ofl4-5.jpg",
+    "thumb": "photos/20261123-7k0ugg/mwt7ofl4-5-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261123-7k0ugg/mwt7ofl4-6.jpg",
+    "thumb": "photos/20261123-7k0ugg/mwt7ofl4-6-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261123-7k0ugg/mwt7ofl4-7.jpg",
+    "thumb": "photos/20261123-7k0ugg/mwt7ofl4-7-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
