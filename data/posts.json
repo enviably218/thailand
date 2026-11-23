@@ -2029,5 +2029,61 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261123-lid5eh",
+  "title": "Strand",
+  "body": "Het prachtige Naiyang beach",
+  "time": "2026-11-23T02:37:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 8.09154,
+   "lon": 98.29941,
+   "r": 500,
+   "kind": "grid",
+   "label": "Sakhu"
+  },
+  "exact": {
+   "iv": "VaY/HfEKncqLbIcU",
+   "ct": "nvDNMxOp4Tda5++XJe5D8gw9WBV3ZTpOk7fdEGz3gUxHuHy+fAuhh9DOD8Gbqg7QmSncEHO3lYw="
+  },
+  "photos": [
+   {
+    "src": "photos/20261123-lid5eh/mwsnozbs-1.jpg",
+    "thumb": "photos/20261123-lid5eh/mwsnozbs-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261123-lid5eh/mwsnozbs-2.jpg",
+    "thumb": "photos/20261123-lid5eh/mwsnozbs-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261123-lid5eh/mwsnozbs-3.jpg",
+    "thumb": "photos/20261123-lid5eh/mwsnozbs-3-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261123-lid5eh/mwsnozbs-4.jpg",
+    "thumb": "photos/20261123-lid5eh/mwsnozbs-4-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
