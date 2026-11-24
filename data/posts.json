@@ -2316,5 +2316,79 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261124-qmox8d",
+  "title": "Meer Phuket town",
+  "body": "",
+  "time": "2026-11-24T06:07:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 7.89391,
+   "lon": 98.36971,
+   "r": 500,
+   "kind": "grid",
+   "label": "บ้านตีนเขา, Wichit"
+  },
+  "exact": {
+   "iv": "MdkBj23m/JJUYGhk",
+   "ct": "CU6MPSD50nObQx8TLzI+VgQOkrndvn0c+dhbcOFaW6GlqecpdKLwQmpz23J+8UiDfY++lYsp9tZH"
+  },
+  "photos": [
+   {
+    "src": "photos/20261124-qmox8d/mwuam66b-1.jpg",
+    "thumb": "photos/20261124-qmox8d/mwuam66b-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261124-qmox8d/mwuam66b-2.jpg",
+    "thumb": "photos/20261124-qmox8d/mwuam66b-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261124-qmox8d/mwuam66b-3.jpg",
+    "thumb": "photos/20261124-qmox8d/mwuam66b-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261124-qmox8d/mwuam66b-4.jpg",
+    "thumb": "photos/20261124-qmox8d/mwuam66b-4-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261124-qmox8d/mwuam66b-5.jpg",
+    "thumb": "photos/20261124-qmox8d/mwuam66b-5-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261124-qmox8d/mwuam66b-6.jpg",
+    "thumb": "photos/20261124-qmox8d/mwuam66b-6-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
