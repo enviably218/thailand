@@ -2390,5 +2390,70 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261125-ww03va",
+  "title": "Laatste dag",
+  "body": "",
+  "time": "2026-11-25T08:25:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 8.09154,
+   "lon": 98.30395,
+   "r": 500,
+   "kind": "grid",
+   "label": "Sakhu"
+  },
+  "exact": {
+   "iv": "DlyYQDiZIHMwQpmf",
+   "ct": "WRC4KvGVSZ8UrvaaqssqxW45C5MUh1zMzpiV8/2ErOpMQw3U086wvtOFzDboD+IZl+ZiXjdEDa4="
+  },
+  "photos": [
+   {
+    "src": "photos/20261125-ww03va/mwvuz787-1.jpg",
+    "thumb": "photos/20261125-ww03va/mwvuz787-1-t.jpg",
+    "caption": "De eigenaar ",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261125-ww03va/mwvuz787-2.jpg",
+    "thumb": "photos/20261125-ww03va/mwvuz787-2-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   },
+   {
+    "src": "photos/20261125-ww03va/mwvuz787-3.jpg",
+    "thumb": "photos/20261125-ww03va/mwvuz787-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261125-ww03va/mwvuz787-4.jpg",
+    "thumb": "photos/20261125-ww03va/mwvuz787-4-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261125-ww03va/mwvuz787-5.jpg",
+    "thumb": "photos/20261125-ww03va/mwvuz787-5-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
