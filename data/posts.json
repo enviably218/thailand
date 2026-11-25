@@ -2455,5 +2455,34 @@
     "th": 540
    }
   ]
+ },
+ {
+  "id": "20261125-b42ia9",
+  "title": "Onweer op komst",
+  "body": "",
+  "time": "2026-11-25T09:17:00.000Z",
+  "tz": "Asia/Bangkok",
+  "loc": {
+   "lat": 8.09154,
+   "lon": 98.30395,
+   "r": 500,
+   "kind": "grid",
+   "label": "Sakhu"
+  },
+  "exact": {
+   "iv": "4btTO0QPtjcsuOdg",
+   "ct": "7aOJPthjMRG+TEmcV2U9boIbTbRIjU4/KpoDqlgF0Np5DvzJtL+nSfkA5ixLVqoA5U6QtEa7E9k="
+  },
+  "photos": [
+   {
+    "src": "photos/20261125-b42ia9/mww7kia2-1.jpg",
+    "thumb": "photos/20261125-b42ia9/mww7kia2-1-t.jpg",
+    "caption": "",
+    "w": 1800,
+    "h": 1350,
+    "tw": 720,
+    "th": 540
+   }
+  ]
  }
 ]
