@@ -2540,5 +2540,70 @@
     "th": 720
    }
   ]
+ },
+ {
+  "id": "20261126-lmyzi7",
+  "title": "Doha airport",
+  "body": "",
+  "time": "2026-11-26T09:12:00.000Z",
+  "tz": "Asia/Qatar",
+  "loc": {
+   "lat": 25.26725,
+   "lon": 51.61188,
+   "r": 500,
+   "kind": "grid",
+   "label": "Doha"
+  },
+  "exact": {
+   "iv": "IhXMedN4yLLuACYB",
+   "ct": "BDWZp0y19fo/jaTy7evywDAMpJNqJL8lgqtZ3HO3oL/i+rcAPxoEmLf6lBy+HTZ/8O/lswaHVT0pyw=="
+  },
+  "photos": [
+   {
+    "src": "photos/20261126-lmyzi7/mwxc3r7h-1.jpg",
+    "thumb": "photos/20261126-lmyzi7/mwxc3r7h-1-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261126-lmyzi7/mwxc3r7h-2.jpg",
+    "thumb": "photos/20261126-lmyzi7/mwxc3r7h-2-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261126-lmyzi7/mwxc3r7h-3.jpg",
+    "thumb": "photos/20261126-lmyzi7/mwxc3r7h-3-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261126-lmyzi7/mwxc3r7h-4.jpg",
+    "thumb": "photos/20261126-lmyzi7/mwxc3r7h-4-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   },
+   {
+    "src": "photos/20261126-lmyzi7/mwxc3r7h-5.jpg",
+    "thumb": "photos/20261126-lmyzi7/mwxc3r7h-5-t.jpg",
+    "caption": "",
+    "w": 1350,
+    "h": 1800,
+    "tw": 540,
+    "th": 720
+   }
+  ]
  }
 ]
